@@ -1,3 +1,3 @@
 # First-Repo
 This is my first repository<br>
-Author -- Burhan
+Author -- Burhan Jivanji
